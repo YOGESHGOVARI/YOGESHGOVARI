@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I can make Coding Fun XD**
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogeshgovari&show_icons=true&theme=radical)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yogeshgovari1502@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogeshgovari1502@gmail.com" height="30" width="40" /></a>
