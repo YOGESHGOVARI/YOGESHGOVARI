@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Dynamic websites**
 
-- 🌱 I’m currently learning **Figma and Django**
-
 - 💬 Ask me about **WEB DEVELOPMENT PROJECTS**
 
 - 📫 How to reach me **yogeshgovari1502@gmail.com**
