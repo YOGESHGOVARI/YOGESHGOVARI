@@ -136,25 +136,19 @@ Developing AI-powered agents to automate tasks and improve software development 
 - 🤖 **AI A-Z: Agentic AI, Generative AI, Prompt Engineering & Reinforcement Learning**
 
 
+
 <h2>📊 GitHub Statistics</h2>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GitHub_Rank-A-58A6FF?style=for-the-badge" alt="Custom A Grade"/>
+<img src="./github-stats.svg" alt="GitHub Statistics" width="540"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=YOGESHGOVARI&show_icons=true&theme=tokyonight&hide_border=false&hide_rank=true" width="540" alt="GitHub Statistics"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOGESHGOVARI&layout=compact&theme=tokyonight" width="400" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=YOGESHGOVARI&theme=tokyonight" width="540" alt="GitHub Streak"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOGESHGOVARI&layout=compact&theme=tokyonight" width="400" alt="Most Used Languages"/>
 
 </div>
+
 
 
 ## 📈 Contribution Graph
