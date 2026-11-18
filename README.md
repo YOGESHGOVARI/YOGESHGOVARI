@@ -137,17 +137,23 @@ Developing AI-powered agents to automate tasks and improve software development 
 
 
 
+
 <h2>📊 GitHub Statistics</h2>
 
 <div align="center">
 
-<img src="./github-stats.svg" alt="GitHub Statistics" width="540"/>
+<img src="https://raw.githubusercontent.com/YOGESHGOVARI/YOGESHGOVARI/main/github-stats.svg"
+     alt="GitHub Statistics"
+     width="540" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOGESHGOVARI&layout=compact&theme=tokyonight" width="400" alt="Most Used Languages"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOGESHGOVARI&layout=compact&theme=tokyonight"
+     alt="Most Used Languages"
+     width="400" />
 
 </div>
+
 
 
 
