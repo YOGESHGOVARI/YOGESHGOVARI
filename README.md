@@ -135,35 +135,27 @@ Developing AI-powered agents to automate tasks and improve software development 
 - 🐍 **Python for Data Science and Machine Learning Bootcamp**
 - 🤖 **AI A-Z: Agentic AI, Generative AI, Prompt Engineering & Reinforcement Learning**
 
----
 
-
-<h2 align="left">📊 GitHub Statistics</h2>
+<h2>📊 GitHub Statistics</h2>
 
 <div align="center">
 
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=YOGESHGOVARI&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-    height="180"
-  />
+<img src="https://img.shields.io/badge/GitHub_Rank-A-58A6FF?style=for-the-badge" alt="Custom A Grade"/>
 
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOGESHGOVARI&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-    height="180"
-  />
+<br/><br/>
 
-  <br/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=YOGESHGOVARI&show_icons=true&theme=tokyonight&hide_border=false&hide_rank=true" width="540" alt="GitHub Statistics"/>
 
-  <img
-    src="https://streak-stats.demolab.com?user=YOGESHGOVARI&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+<br/><br/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=YOGESHGOVARI&layout=compact&theme=tokyonight" width="400" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=YOGESHGOVARI&theme=tokyonight" width="540" alt="GitHub Streak"/>
 
 </div>
 
----
 
 ## 📈 Contribution Graph
 
